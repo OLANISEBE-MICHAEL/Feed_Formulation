@@ -90,6 +90,6 @@ Simplex matched PuLP (CBC) on 20 random LPs and on the real data instance.
 See SOURCES.md
 
 ## Screenshots
-[Simplex solver outputs] : screenshots/Screenshot 2026-10-27 at 15.18.32.png
+[Simplex solver outputs] : screenshots/Screenshot 2026-10-27 at 15.18.32.png \
 [Pulp validation outputs] : screenshots/Screenshot 2026-10-27 at 15.18.59.png
 
